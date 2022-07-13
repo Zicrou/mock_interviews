@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  interviewers: MyString
+  interviewee: MyString
+  questionid: 1
+  questionstatus: false
+
+two:
+  interviewers: MyString
+  interviewee: MyString
+  questionid: 1
+  questionstatus: false
